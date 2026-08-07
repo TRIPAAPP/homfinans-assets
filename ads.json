@@ -14,27 +14,27 @@
       "enabled": true,
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad2.png",
       "imageVersion": 1,
-      "linkText": "Download TRIPA",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA",
-      "iosUrl": "https://apps.apple.com/app/id6772444633"
+      "linkText": "Follow TRIPA on Instagram",
+      "androidUrl": "https://www.instagram.com/tripa_app/",
+      "iosUrl": "https://www.instagram.com/tripa_app/"
     },
     {
       "id": "ad3",
-      "enabled": false,
+      "enabled": true,
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad3.png",
       "imageVersion": 1,
-      "linkText": "",
-      "androidUrl": "",
-      "iosUrl": ""
+      "linkText": "Get TRIPA on Google Play",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en",
+      "iosUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en"
     },
     {
       "id": "ad4",
-      "enabled": false,
+      "enabled": true,
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad4.png",
       "imageVersion": 1,
-      "linkText": "",
-      "androidUrl": "",
-      "iosUrl": ""
+      "linkText": "Download TRIPA on the App Store",
+      "androidUrl": "https://apps.apple.com/us/app/tripa/id6772444633",
+      "iosUrl": "https://apps.apple.com/us/app/tripa/id6772444633"
     },
     {
       "id": "ad5",
