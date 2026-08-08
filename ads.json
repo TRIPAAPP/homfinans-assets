@@ -44,6 +44,24 @@
       "linkText": "HomFinans",
       "androidUrl": "",
       "iosUrl": ""
+    },
+    {
+      "id": "ad6",
+      "enabled": true,
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad6.png",
+      "imageVersion": 1,
+      "linkText": "",
+      "androidUrl": "https://www.instagram.com/tripa_app/",
+      "iosUrl": "https://www.instagram.com/tripa_app/"
+    },
+    {
+      "id": "ad7",
+      "enabled": true,
+      "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad7.png",
+      "imageVersion": 1,
+      "linkText": "",
+      "androidUrl": "https://www.instagram.com/tripa_app/",
+      "iosUrl": "https://www.instagram.com/tripa_app/"
     }
   ]
 }
