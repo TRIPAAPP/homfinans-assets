@@ -51,8 +51,8 @@
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad6.png",
       "imageVersion": 1,
       "linkText": "",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en",
-      "iosUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en"
+      "androidUrl": "https://www.instagram.com/tripa_app/",
+      "iosUrl": "https://www.instagram.com/tripa_app/"
     },
     {
       "id": "ad7",
@@ -60,8 +60,8 @@
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad7.png",
       "imageVersion": 1,
       "linkText": "",
-      "androidUrl": "https://www.instagram.com/tripa_app/",
-      "iosUrl": "https://www.instagram.com/tripa_app/"
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en",
+      "iosUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en"
     }
   ]
 }
