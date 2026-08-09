@@ -5,8 +5,8 @@
       "enabled": true,
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad1.png",
       "imageVersion": 1,
-      "linkText": "",
-      "androidUrl": "",
+      "linkText": "HomFinans on Google Play",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.samadaeitech.homfinans&pcampaignid=web_share",
       "iosUrl": ""
     },
     {
