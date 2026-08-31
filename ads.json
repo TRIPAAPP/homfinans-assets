@@ -5,9 +5,9 @@
       "enabled": true,
       "imageUrl": "https://raw.githubusercontent.com/TRIPAAPP/homfinans-assets/main/ad1.png",
       "imageVersion": 1,
-      "linkText": "HomFinans on Google Play",
+      "linkText": "HomFinans on Google Play & appstore",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.samadaeitech.homfinans&pcampaignid=web_share",
-      "iosUrl": ""
+      "iosUrl": "https://apps.apple.com/se/app/homfinans/id6799438026"
     },
     {
       "id": "ad2",
@@ -43,7 +43,7 @@
       "imageVersion": 1,
       "linkText": "HomFinans",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.samadaeitech.homfinans&pcampaignid=web_share",
-      "iosUrl": ""
+      "iosUrl": "https://apps.apple.com/se/app/homfinans/id6799438026"
     },
     {
       "id": "ad6",
@@ -61,7 +61,7 @@
       "imageVersion": 1,
       "linkText": "",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en",
-      "iosUrl": "https://play.google.com/store/apps/details?id=com.emitripa.TRIPA&hl=en"
+      "iosUrl": "https://apps.apple.com/se/app/tripa/id6772444633"
     }
   ]
 }
